@@ -4,7 +4,7 @@ Java Spring Boot Application.
 Building a Spring Boot Full Stack application \
 TECHNOLOGIES:
 * Spring Boot:
-    Spring Boot 3 and Spring Security 6 and ReactJS . . . 
+    Spring Boot 3 and Spring Security 6
 * ReactJS
 * MySQL
 * Bootstrap
