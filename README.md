@@ -46,6 +46,13 @@ As time goes by, we will be REFACTORING the code to maintain best coding practic
 
 AFTER this project, I am ready for the industry !
 
+------------------------------------------------------------------------------------
 
+Controller Layer --> Service Layer --> Repository Layer --> DataBase (DB) / MySQL. \
+-3)-Repositor Layer:  Where Users Perfrom DB operations. \
+-2)-Service Later: Business Logic. \
+-1)-Controller Layer: Exposed to the clients. \
+
+OK ...
 
 
