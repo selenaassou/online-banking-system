@@ -24,7 +24,7 @@ Django with Python
 Now …
 Spring for Java + Spring Boot as a Helper!
 
-) \
+) 
 
 -Connects to the hardware (dependency injection) \
 Like in Java we have @… depends on @… inside of it … \
