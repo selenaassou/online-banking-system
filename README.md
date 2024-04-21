@@ -91,6 +91,7 @@ start.spring.io \
                 I'll keep the default. He selected the latest. 
                 
     ADD DEPENDENCIES: Lombok (java lib to reduce boilerplate code like getters/setters), 
-                        Spring Web (Tomcat Apache for RESTful Web), 
+                        Spring Web (Tomcat Apache for RESTful Web), Spring Data JPA (SQL Java Persistence API using Spring Data and Hibernate),
+                        MySQL Driver (MySQL JDBC driver - connect DB with Java).
 
-
+Now : Click on  "Generate". -> zip file that we will open in IntelliJ.
