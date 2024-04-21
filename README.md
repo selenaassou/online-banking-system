@@ -19,6 +19,7 @@ TECHNOLOGIES:
 
 This project essentially contains 3 modules: Admin, Bank & Customer. 
 
+
 STEP 1: Register, Sign up, Have an assigned account number. \
 
 STEP 2: Implement the core banking services: Credits (pay) + Debits (deposit) accounts.
@@ -37,6 +38,7 @@ STEP 5: Spring ** SECURITY ** with JWT. -- Authentication and Authorization.
         -> role-based authentication (or he meant road-based ? ?)  \
         
 STEP 6: CHATGPT: Customer Care Agent (OH THE SIDE CHAT THING ! OMG THIS IS SO COOL! ) emulating/imitating a member of a bank talking to you. 
+
 
 OBJECTS / METHODS: Builder Pattern, BTO?, Model Mapper?, 
 
