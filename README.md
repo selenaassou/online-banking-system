@@ -19,19 +19,19 @@ TECHNOLOGIES:
 
 This project essentially contains 3 modules: Admin, Bank & Customer. 
 
-STEP 1: Register, Sign up, Have an assigned account number.
-STEP 2: Implement the core banking services: Credits (pay) + Debits (deposit) accounts.
-        + Transfer (One sending money: Debited, One getting the money: Credited) I THINK IT'S THE OPPOSITE ! ~JAVA ACADEMY update please.
-STEP 3: Balance + Name inquiries.
+STEP 1: Register, Sign up, Have an assigned account number. \
+STEP 2: Implement the core banking services: Credits (pay) + Debits (deposit) accounts. \
+        + Transfer (One sending money: Debited, One getting the money: Credited) I THINK IT'S THE OPPOSITE ! ~JAVA ACADEMY update please. \
+STEP 3: Balance + Name inquiries. \
 STEP 4: Email service for creating alerts. (e.g: EMAIL: "You signed up for a new account !" and "This is your account." ME: only show the last
         and mask the rest) 
-        You'll get alerts for transfers and credits, debits etc ...
+        You'll get alerts for transfers and credits, debits etc ... \
 STEP 5: Spring ** SECURITY ** with JWT. -- Authentication and Authorization.
         -> Not every should be able to :
             -Delete a user
             -Show other users
-        -> role-based authentication (or he meant road-based ? ?) 
-STEP 6: CHATGPT: Customer Care Agent (OH THE SIDE CHAT THING ! OMG THIS IS SO COOL! ) emulating/imitating a member of a bank talking to you.
+        -> role-based authentication (or he meant road-based ? ?)  \
+STEP 6: CHATGPT: Customer Care Agent (OH THE SIDE CHAT THING ! OMG THIS IS SO COOL! ) emulating/imitating a member of a bank talking to you. 
 
 OBJECTS / METHODS: Builder Pattern, BTO?, Model Mapper?, 
 
