@@ -16,6 +16,27 @@ TECHNOLOGIES:
 * Maven ( for Dependencies ! )
 
 
+-Spring Framework …
+(
+LIKE:
+Ruby on Rails with Ruby OR
+Django with Python
+Now …
+Spring for Java + Spring Boot as a Helper!
+)
+>Connects to the hardware (dependency injection)
+Like in Java we have @… depends on @… inside of it …
+>Integrates with other frameworks :
+Hibernate for ORM (object relational mapping)
+iBatis for Object Mapping
+jUnit & Mockito for Unit Testing
+
+-Spring Boot ….
+Built on top of Sprint Framework.
+And has all LIBRARIES + PRECODES to simplify the developers work … and GET STRAIGHT TO THE LOGIC NEEDED ONLY.
+(Example: getters , setters etc!)
+
+
 
 This project essentially contains 3 modules: Admin, Bank & Customer. 
 
