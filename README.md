@@ -16,7 +16,14 @@ TECHNOLOGIES:
 * Maven ( for Dependencies ! )
 
 
--Spring Framework … \
+  NOTE: 
+*** 
+MUST CERATE A NEW REPOSITORY! Because ... the Sprint Boot project needs some dependencies BEFORE I OPEN IT ON INTELLIJ by JETBRAINS.
+SO THE REPO WILL INCLUDE ALL THESE EXTRA FILES BEFORE I WRITE ANY CODE MYSELF (start.spring.io). 
+***
+
+
+---Spring Framework … \
 ( \
 LIKE:
 Ruby on Rails with Ruby OR
@@ -33,7 +40,7 @@ Hibernate for ORM (object relational mapping) \
 iBatis for Object Mapping \
 jUnit & Mockito for Unit Testing \
 
--Spring Boot ….\
+---Spring Boot ….\
 Built on top of Sprint Framework.\
 And has all LIBRARIES + PRECODES to simplify the developers work … and GET STRAIGHT TO THE LOGIC NEEDED ONLY.\
 (Example: getters , setters etc!)\
@@ -83,6 +90,7 @@ start.spring.io \
     Spring Boot: not (SNAPSHOT) but ... the version (right before the last) : I selected 3.2.5 not 3.1.11 (not RC1=first version release: 3.3.0 ) \
                 I'll keep the default. He selected the latest. 
                 
-    ADD DEPENDENCIES: Lombok (java lib to reduce boilerplate code like getters/setters), Spring Web (Tomcat Apache for RESTful Web)
+    ADD DEPENDENCIES: Lombok (java lib to reduce boilerplate code like getters/setters), 
+                        Spring Web (Tomcat Apache for RESTful Web), 
 
 
