@@ -55,10 +55,11 @@ Controller Layer --> Service Layer --> Repository Layer --> DataBase (DB) / MySQ
 
 OK ... Let's start
 
-start.spring.io 
-    Project: Gradle-Groovy, Gradle-Kotlin, Maven 
+start.spring.io \
+    Project: Gradle-Groovy, Gradle-Kotlin, Maven \
     Spring Boot: not (SNAPSHOT) but ... the version (right before the last) : I selected 3.2.5 not 3.1.11 (not RC1=first version release: 3.3.0 ) \
-                I'll keep the default. He selected the latest.
+                I'll keep the default. He selected the latest. \
+                
     ADD DEPENDENCIES: 
 
 
